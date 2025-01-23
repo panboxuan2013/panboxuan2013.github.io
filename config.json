@@ -2,5 +2,15 @@
     "title":"panboxuan2013的blog",
     "subTitle":"这里是panboxuan2013的博客",
     "avatarUrl":"https://avatars.githubusercontent.com/u/118328311?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "i18n":"CN",
+    "UTC":8,
+    "bottomText":"转载请注明出处",
+    "needComment":1,
+    "onePageListNum":15,
+    "showPostSource":1,
+    "startSite":"12/09/2024",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "commentLabelColor":"#006b75",
+    "email":"panboxuan2013@outlook.com"
 }
